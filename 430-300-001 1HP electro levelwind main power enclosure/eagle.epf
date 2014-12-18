@@ -1,0 +1,33 @@
+[Eagle]
+Version="05 11 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-SOSI-Connector.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-SOSI-Wiring-Diagram.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-SOSI.LED.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-SOSI.TransistorFET.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-SOSI.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-Sosi-reg.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/SOSI.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/SparkFun.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/capacitor-wima.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/hankl.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/holes.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/resistor.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/supply1.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/supply2.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="327 233 1312 872"
+State=2
+Number=0
+
+[Desktop]
+Screen="1680 1050"
+Window="Win_1"

@@ -1,0 +1,46 @@
+[Eagle]
+Version="06 04 00"
+Platform="Windows"
+Serial="6F22B16665-LSR-WLM-3CP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-SOSI-Connector.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-SOSI-Inductor.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-SOSI-ResCap.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-SOSI-SwitchPB.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-SOSI-Wiring-Diagram.rpt.bad.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-SOSI-Wiring-Diagram.rpt.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-SOSI-crystal-diode.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-SOSI.LED.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-SOSI.TransistorFET.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-SOSI.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM-Sosi-Regulator.Supervisor.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM.SOSI.Displays.Modules.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM.SOSI.Logic.buffer.transceiver.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM.SOSI.Microcontroller.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM.SOSI.Op-amp.Comparators.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM.SOSI.Relay.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM.SOSI.Sensors.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/DougM.SOSI.Symbols.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/SOSI.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/SparkFun.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/capacitor-wima.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/con-usb-3.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/hankl.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/holes.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/resistor.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/supply1.lbr"
+UsedLibrary="T:/Engineering/Electrical Eng/Eagle/lbr/supply2.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="526 51 1125 849"
+State=2
+Number=0
+
+[Desktop]
+Screen="1680 1050"
+Window="Win_1"
